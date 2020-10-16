@@ -1,0 +1,15 @@
+{
+    "name": "coderamos-vscode-extension-pack",
+    "displayName": "Coderamos VSCode Extension Pack",
+    "description": "A collection of extension that i use for personal projects",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
