@@ -2,14 +2,54 @@
     "name": "coderamos-vscode-extension-pack",
     "displayName": "Coderamos VSCode Extension Pack",
     "description": "A collection of extension that i use for personal projects",
+    "publisher": "coderamos",
+    "icon": "logo.png",
+    "galleryBanner": {
+        "color": "#171717",
+        "theme": "dark"
+    },
+    "keywords": [
+        "react",
+        "typescript",
+        "next",
+        "styled-components",
+        "graphql",
+        "front-end"
+    ],
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.50.0"
+    },
+    "repository": {
+        "url": "https://github.com/coderamos/vscode-extension-pack"
+    },
+    "homepage": "https://github.com/coderamos/vscode-extension-pack",
+    "bugs": {
+        "url": "https://github.com/coderamos/vscode-extension-pack/issues"
     },
     "categories": [
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "apollographql.vscode-apollo",
+        "coenraads.bracket-pair-colorizer",
+        "dbaeumer.vscode-eslint",
+        "dracula-theme.theme-dracula",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "felixjb.testify",
+        "hookyqr.beautify",
+        "jpoissonnier.vscode-styled-components",
+        "mikestead.dotenv",
+        "mkxml.vscode-filesize",
+        "ms-vscode-remote.remote-wsl",
+        "naumovs.color-highlight",
+        "oderwat.indent-rainbow",
+        "pkief.material-icon-theme",
+        "ritwickdey.liveserver",
+        "rocketseat.rocketseatreactjs",
+        "rocketseat.theme-omni",
+        "tyriar.sort-lines",
+        "wix.vscode-import-cost"
     ]
 }
