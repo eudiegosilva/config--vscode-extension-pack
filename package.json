@@ -1,7 +1,7 @@
 {
-    "name": "coderamos-vscode-extension-pack",
+    "name": "vscode-extension-pack",
     "displayName": "VSCode Extension Pack by CODERAMOS",
-    "description": "A collection of extension that i use for personal projects",
+    "description": "A collection of extension for front-end projects",
     "publisher": "coderamos",
     "icon": "logo.png",
     "galleryBanner": {
